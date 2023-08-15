@@ -13,7 +13,7 @@ name                     : &name "Yuqi Zhou"
 description              : &description "Personal Website"
 url                      : https://zhouyuqisconvex.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : # "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-fe0arEAAAAJ&hl=en"
-  email            :
+  email            : "Yuqi.Zhou@nrel.gov"
   researchgate     :  "https://www.researchgate.net/profile/Yuqi-Zhou-2"
   uri              :
   bitbucket        :
