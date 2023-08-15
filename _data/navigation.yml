@@ -5,16 +5,16 @@ main:
     url: /files/resume.pdf
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=-fe0arEAAAAJ&hl=en
 
   - title: "Experience"
-    url: /experience/      
+    url: /talks/      
     
   - title: "Skills"
-    url: /skills/
+    url: /portfolio/
 
   - title: "Interests"
-    url: /interests/  
+    url: /posts/  
         
   #- title: "Blog Posts"
   #  url: /year-archive/
