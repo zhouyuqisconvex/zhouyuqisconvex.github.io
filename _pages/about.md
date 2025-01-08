@@ -11,11 +11,11 @@ redirect_from:
 
 🎓 I received my Ph.D. from the University of Texas at Austin in 2022.
 
-💻 I am currently a postdoctoral researcher at National Renewable Energy Laboratory.
+💻 I am currently a Researcher at National Renewable Energy Laboratory.
 
 🔬 My research interests include optimization and machine learning algorithms for operations of large-scale energy systems.
 
-🏀 I like playing basketball and tennis during my leisure time.
+🏀 I like playing basketball, tennis, and snowboarding during my leisure time.
 
 🧩 I also enjoy playing puzzle games and watching suspense movies.
 
